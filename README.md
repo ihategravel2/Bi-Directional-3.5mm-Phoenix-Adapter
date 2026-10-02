@@ -6,6 +6,10 @@ I previously sold these adapters on eBay. I'm sharing the manufacturing files, p
 
 ![Four assembled V1.41 adapters](docs/images/adapters-group-v1.41.png)
 
+## V1.45 PCB layout
+
+![V1.45 PCB layout screenshot](docs/images/pcb-layout-v1.45.png)
+
 ## Features
 
 - Female 3.5 mm stereo TRS audio jack.
