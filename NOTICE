@@ -1,0 +1,23 @@
+Bi-Directional 3.5 mm TRS / Phoenix Audio Adapter
+Copyright (c) 2026 ihategravel2
+
+SPDX-License-Identifier: CERN-OHL-P-2.0
+
+The design files and accompanying project documentation and images in this
+repository are licensed under the CERN Open Hardware Licence Version 2 -
+Permissive. The complete licence is provided in LICENSE.
+
+Source location:
+https://github.com/ihategravel2/Bi-Directional-3.5mm-Phoenix-Adapter
+
+The Covered Source and any Products are provided 'as is', without warranty,
+as set out in section 5 of the licence.
+
+Extron and the equipment/product names referenced in the documentation
+belong to their respective owners and are used to identify compatibility
+and design context. This is an independent project and is not endorsed
+by Extron or CERN. External reference documents are not included in, or
+relicensed by, this repository.
+
+2026-10-02: Prepared the initial public documentation and organized the
+supplied manufacturing exports and images. No hardware files were modified.
